@@ -23,10 +23,10 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afsarakhaa&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true" height="150" alt="Afsar's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=afsarakhaa&theme=catppuccin_latte&hide_border=true" height="150" alt="Afsar's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afsarakhaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Afsar's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=afsarakhaa&theme=tokyonight&hide_border=true" height="150" alt="Afsar's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afsarakhaa&layout=compact&theme=catppuccin_latte&hide_border=true" alt="Afsar's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afsarakhaa&layout=compact&theme=tokyonight&hide_border=true" alt="Afsar's Top Languages" />
 </div>
 
 ---
@@ -72,11 +72,3 @@
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="35" height="35"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="35" height="35"/></a>
 </p>
-
----
-
-<div align="center">
-
-> _"Design with empathy. Build with clarity. Deliver with purpose."_ 🚀
-
-</div>
